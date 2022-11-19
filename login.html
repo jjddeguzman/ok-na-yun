@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Log In</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="Shortcut Icon"
+      href="./images/logo/logo nila recca.ico"
+      type="image/x-icon"
+    />
+  </head>
+  <body class="col">
+    <div>
+      <img class="lg" src="./images/pwdlogo-removebg-preview 2.png" />
+      <p class="lp">Las Piñas Persons With Disability Federation Inc.</p>
+      <p class="lp1">Las Piñas Persons With Disability</p>
+      <p class="lp2">Federation Inc.</p>
+      <p class="lp3">Board Members</p>
+      <img class="lg1" src="./images/pwdlogo-removebg-preview 1.png" />
+    </div>
+
+    <div class="container">
+      <div class="forms">
+        <div class="form login">
+          <span class="title">Login</span>
+
+          <form action="#">
+            <div class="input-field">
+              <input
+                type="text"
+                placeholder="Enter your email"
+                id="username"
+                required
+              />
+              <i class="uil uil-envelope icon"></i>
+            </div>
+
+            <div class="input-field">
+              <input
+                type="password"
+                class="password"
+                placeholder="Enter your password"
+                id="password"
+                required
+              />
+              <i class="uil uil-lock icon"></i>
+              <i class="uil uil-eye-slash showHidePw"></i>
+            </div>
+
+            <div class="input-field button">
+              <input type="button" value="Login" id="submit" onclick="validate()" />
+            </div>
+          </form>
+
+          <script src="script.js"></script>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

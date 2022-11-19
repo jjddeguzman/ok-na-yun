@@ -1,0 +1,560 @@
+body{
+    background-color: #CCF3FF;
+}
+.logo{
+    position: absolute;
+    width: 98px;
+    height: 86px;
+    left: 0px;
+    top: 1px;
+}
+.LP{
+    position: absolute;
+    width: 224px;
+    height: 42px;
+    left: 98px;
+    top: 22px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #565456;
+}
+.container{
+    position: absolute;
+    width: 930px;
+    height: 800px;
+    left: 429px;
+    top: 145px;
+
+    background: #83CCD2;
+    border-radius: 25px;
+}
+
+
+.lance{
+    position: absolute;
+    width: 173px;
+    height: 172px;
+    left: 478px;
+    top: 190px;
+
+}
+
+.myname{
+    position: absolute;
+    width: 482px;
+    height: 134px;
+    left: 700px;
+    top: 160px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 67px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.frame{
+    position: absolute;
+    width: 347px;
+    height: 484px;
+    left: 474px;
+    top: 410px;
+
+}
+
+.staffs{
+    position: absolute;
+    width: 178px;
+    height: 24px;
+    left: 50px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+.present{
+    position: absolute;
+    width: 178px;
+    height: 24px;
+    left: 50px;
+    top: 130px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.absentees{
+    position: absolute;
+    width: 178px;
+    height: 24px;
+    left: 50px;
+    top: 230px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.excuses{
+    position: absolute;
+    width: 300px;
+    height: 24px;
+    left: 50px;
+    top: 360px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+
+}
+
+.rectangle1{
+    position: absolute;
+    width: 104px;
+    height: 67px;
+    left: 520px;
+    top: 488px;
+
+    background: #94CEDE;
+    border-radius: 25px;
+}
+
+.rectangle2{
+    position: absolute;
+    width: 104px;
+    height: 67px;
+    left: 520px;
+    top: 588px;
+
+    background: #94CEDE;
+    border-radius: 25px;
+}
+
+.rectangle3{
+    position: absolute;
+    width: 104px;
+    height: 67px;
+    left: 520px;
+    top: 688px;
+
+    background: #94CEDE;
+    border-radius: 25px;
+}
+
+.totalstaff{
+    position: absolute;
+    width: 72px;
+    height: 48px;
+    left: 13px;
+    top: -30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+
+color: #000000;
+}
+
+.totalpresent{
+    position: absolute;
+    width: 72px;
+    height: 48px;
+    left: 13px;
+    top: -30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #000000;
+}
+
+.totalabsentees{
+    position: absolute;
+    width: 72px;
+    height: 48px;
+    left: 13px;
+    top: -30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+
+color: #000000;
+}
+
+.statistics{
+    position: absolute;
+    width: 257px;
+    height: 210px;
+    left: 838px;
+    top: 411px;
+
+    background: url(image.png);
+    border-radius: 25px;
+}
+
+.calendar{
+    position: absolute;
+    width: 498px;
+    height: 255px;
+    left: 838px;
+    top: 639px;
+
+    background: url(image.png);
+}
+
+.rectanglengtotal{
+    position: absolute;
+    width: 229px;
+    height: 210px;
+    left: 1109px;
+    top: 411px;
+
+    background: #B0E3E7;
+    border-radius: 25px;
+}
+
+.mytotal{
+    position: absolute;
+    width: 163px;
+    height: 39px;
+    left: 35px;
+    top: -10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+
+color: #000000; 
+}
+
+.rectanglesaloob{
+    position: absolute;
+    width: 207px;
+    height: 91px;
+    left: 1120px;
+    top: 513px;
+
+    background: #94CEDE;
+    border-radius: 25px;
+
+
+}
+
+.angtotal{
+    position: absolute;
+    left: 10%;
+    right: -149.28%;
+    top: -15%;
+    bottom: 20.33%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+
+    color: #667A80;
+}
+
+.timein{
+    position: absolute;
+    width: 152px;
+height: 51px;
+left: 1150px;
+top: 230px;
+
+background: #A2F363;
+border-radius: 25px;
+}
+
+.timein1{
+    position: absolute;
+    width: 79px;
+    height: 24px;
+    left: 40px;
+    top: -5px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.timeout{
+    position: absolute;
+width: 152px;
+height: 51px;
+left: 1150px;
+top: 305px;
+
+background: #FF5252;
+border-radius: 25px;
+}
+
+.timeout1{
+    position: absolute;
+width: 102px;
+height: 24px;
+left: 30px;
+top: -7px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.DASH1{
+    position: absolute;
+    width: 346px;
+    height: 67px;
+    left: 56px;
+    top: 86px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 67px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.DASH2{
+    position: absolute;
+    width: 171px;
+    height: 29px;
+    left: 58px;
+    top: 210px;
+    text-decoration-line: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.logo1{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 330px;
+    top: 232px;
+
+    opacity: 0.50;
+}
+.DASH3{
+    position: absolute;
+    width: 225px;
+    height: 29px;
+    left: 58px;
+    top: 285px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.logo2{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 330px;
+    top: 305px;
+
+    opacity: 0.50;
+}
+.DASH4{
+    position: absolute;
+    width: 86px;
+    height: 29px;
+    left: 58px;
+    top: 358px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.logo3{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 330px;
+    top: 378px;
+
+    opacity: 0.50;
+}
+.DASH5{
+    position: absolute;
+    width: 79px;
+    height: 29px;
+    left: 58px;
+    top: 430px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.logo4{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 330px;
+    top: 452px;
+
+    opacity: 0.50;
+}
+.DASH6{
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 58px;
+    top: 505px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.logo5{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 330px;
+    top: 525px;
+
+    opacity: 0.50;
+}
+.DASH7{
+    position: absolute;
+    width: 108px;
+    height: 29px;
+    left: 111px;
+    top: 800px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.logo6{
+    position: absolute;
+    width: 44px;
+    height: 40px;
+    left: 56px;
+    top: 818px;
+}
+.container5{
+    position: absolute;
+    width: 367px;
+    height: 58px;
+    left: 427px;
+    top: 60px;
+
+    background: #B0E3E7;
+    border-radius: 50px;
+}
+.logo7{
+    position: absolute;
+    width: 35px;
+    height: 30px;
+    left: 443px;
+    top: 75px;
+}
+.cons1txt3{
+    position: absolute;
+    width: 51px;
+    height: 18px;
+    left: 491px;
+    top: 67px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.cons1txt4{
+    position: absolute;
+    width: 337px;
+    height: 29px;
+    left: 1080px;
+    top: 56px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+color: rgba(0, 0, 0, 0.5);
+}

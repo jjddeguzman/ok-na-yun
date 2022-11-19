@@ -1,0 +1,334 @@
+body{
+    background-color: #CCF3FF;
+}
+.logo{
+    position: absolute;
+    width: 98px;
+    height: 86px;
+    left: 0px;
+    top: 1px;
+}
+.LP{
+    position: absolute;
+    width: 224px;
+    height: 42px;
+    left: 98px;
+    top: 22px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #565456;
+}
+.container{
+    position: absolute;
+    width: 930px;
+    height: 800px;
+    left: 429px;
+    top: 145px;
+
+    background: #83CCD2;
+    border-radius: 25px;
+}
+.cons1{
+    position: absolute;
+    width: 254px;
+    height: 210px;
+    left: 466px;
+    top: 180px;
+
+    background: #B0E3E7;
+    border-radius: 25px;
+}
+.cons1txt1{
+    position: absolute;
+    width: 213px;
+    height: 18px;
+    left: 23px;
+    top: 8px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.container2{
+    position: absolute;
+    width: 215px;
+    height: 117px;
+    left: 21px;
+    top: 55px;
+
+    background: #83CCD2;
+    border-radius: 25px;
+}
+.cons1txt2{
+    position: absolute;
+    width: 183px;
+    height: 67px;
+    left: 36px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 67px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.container3{
+    position: absolute;
+    width: 254px;
+    height: 217px;
+    left: 465px;
+    top: 405px;
+
+    background: #B0E3E7;
+    border-radius: 25px;
+}
+.img1{
+    position: absolute;
+    width: 234px;
+    height: 250px;
+    left: 480px;
+    top: 450px;
+}
+
+.stat1{
+    z-index: 1;
+    position: relative;
+    width: 364px;
+    height: 182px;
+    left: 835px;
+    top: 300px;
+    border-radius: 25px;
+}
+
+.container4{
+    position: absolute;
+    width: 523px;
+    height: 443px;
+    left: 761px;
+    top: 180px;
+
+    background: #B0E3E7;
+    border-radius: 25px;
+}
+.DASH1{
+    position: absolute;
+    width: 346px;
+    height: 67px;
+    left: 56px;
+    top: 86px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 67px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.DASH2{
+    position: absolute;
+    width: 171px;
+    height: 29px;
+    left: 58px;
+    top: 210px;
+    text-decoration-line: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.logo1{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 330px;
+    top: 232px;
+
+    opacity: 0.50;
+}
+.DASH3{
+    position: absolute;
+    width: 225px;
+    height: 29px;
+    left: 58px;
+    top: 285px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.logo2{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 330px;
+    top: 305px;
+
+    opacity: 0.50;
+}
+.DASH4{
+    position: absolute;
+    width: 86px;
+    height: 29px;
+    left: 58px;
+    top: 358px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.logo3{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 330px;
+    top: 378px;
+
+    opacity: 0.50;
+}
+.DASH5{
+    position: absolute;
+    width: 79px;
+    height: 29px;
+    left: 58px;
+    top: 430px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.logo4{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 330px;
+    top: 452px;
+
+    opacity: 0.50;
+}
+.DASH6{
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 58px;
+    top: 505px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.logo5{
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    left: 330px;
+    top: 525px;
+
+    opacity: 0.50;
+}
+.DASH7{
+    position: absolute;
+    width: 108px;
+    height: 29px;
+    left: 111px;
+    top: 800px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.logo6{
+    position: absolute;
+    width: 44px;
+    height: 40px;
+    left: 56px;
+    top: 818px;
+}
+.container5{
+    position: absolute;
+    width: 367px;
+    height: 58px;
+    left: 427px;
+    top: 60px;
+
+    background: #B0E3E7;
+    border-radius: 50px;
+}
+.logo7{
+    position: absolute;
+    width: 35px;
+    height: 30px;
+    left: 443px;
+    top: 75px;
+}
+.cons1txt3{
+    position: absolute;
+    width: 51px;
+    height: 18px;
+    left: 491px;
+    top: 67px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+.cons1txt4{
+    position: absolute;
+    width: 337px;
+    height: 29px;
+    left: 1080px;
+    top: 56px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+color: rgba(0, 0, 0, 0.5);
+}
